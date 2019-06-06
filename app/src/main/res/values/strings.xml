@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Permissions</string>
+    <string name="enable_camera">打开相机</string>
+</resources>
