@@ -23,6 +23,6 @@ allprojects {
 ## 在module的builder.gradle中
 ```
     dependencies {
-    	implementation 'com.github.flyingtercel:RxPermissions:1.0.2'
+    	implementation 'com.github.flyingtercel:Permissions:1.0.1'
     }
 ```
